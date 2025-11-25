@@ -1,5 +1,6 @@
 function getMessage() {
-    return "Hello from Feature Addition branch!";
+    return "Final merged message after conflict resolution!";
 }
+
 
 document.getElementById("greet").innerText = getMessage();
